@@ -1,5 +1,5 @@
 h1 {
-    font-size: 1em;
+    font-size: 5em;
     font-family: Optima;
     padding: 2px;
     margin: 2px;
@@ -7,25 +7,28 @@ h1 {
     text-decoration: underline;
     color: black;
     background-color: white;
+    text-align: center;
 }
 
 h2 {
-    font-size: .8em;
+    font-size: 3em;
     font-family: optima;
     padding: 2px;
     margin: 2px;
     font-weight: 1;
     color: black;
     background-color: white;
+    text-align: center;
 }
 
 p {
     font-family: optima;
-    font-size: .6em;
+    font-size: 2em;
     padding: 2px;
-    margin: 2px;
+    margin: 10px;
     color: black;
     background-color: white;
+    text-align: center;
 }
 
 .logo {
@@ -34,4 +37,5 @@ p {
     background-color: white;
     height: 100px;
     width: 100px;
+    margin-left: 860px;
 }
